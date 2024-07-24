@@ -10,7 +10,7 @@
     "has_parameters": false
   },
   "quarto": {
-    "version": "0.9.16",
+    "version": "1.4.557",
     "engines": ["jupyter"]
   },
   "python": {
