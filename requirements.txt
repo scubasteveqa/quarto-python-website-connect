@@ -1,3 +1,4 @@
 pyyaml
 nbformat
 nbclient
+jupyter
